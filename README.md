@@ -26,7 +26,7 @@ Check the trained model.
 
 
 ## Program:
-```
+```python
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: NITHISHWAR S
